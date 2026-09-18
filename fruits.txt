@@ -1,5 +1,5 @@
-orange
-banana
-apple
-Mango
-Cherrys
+orange 
+watermelon 
+apple 
+mango  
+cherrys 
